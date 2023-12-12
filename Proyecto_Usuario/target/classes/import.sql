@@ -1,0 +1,1 @@
+INSERT INTO `usuario`(`id_ciudad`, `clave`, `email`, `estado`, `nombre`) VALUES ('1','1111','drel@gmail.com','activo','lisseth');
